@@ -1,23 +1,36 @@
-# .github
-
-*Community health files for @Sawo-Community Organization*
-
 <p align="center">
-<img src="./assets/images/sawolabs-logo.png" width=240px height=100px/>
-</p>
+<img src="./assets/images/sawolabs-logo.png" width=240px height=100px>
+<h1 align="center"> Sawo Labs Community </h1>
+<p>
+<p align="center">
+  <b>This repo will contain community health files. You can take a look at current running programs and get involved with them :)</b> 
+  <br>
+  <br>
+  <b>Follow us and be a part of this amazing community.</b> <br><br>
+  <a href="https://discord.com/invite/TpnCfMUE5P">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+  </a>&ensp;
+  <a href="https://www.facebook.com/SAWOlabs2020/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>&ensp;
+  <a href="https://twitter.com/sawolabs">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/company/sawolabs">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://www.instagram.com/sawolabs/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&ensp;
+  <br>
+</p>  
 
-## About:
+## About
+
 SAWO is the only user-authentication tool that your developers would crave for.
 Our APIs are fast, reliable, integrate onto any platform, and speak many languages. [Learn More...](https://sawolabs.com/)
 
-## Connect:
+## Note to all contributors
 
-[Discord](https://discord.com/invite/TpnCfMUE5P)
-
-[Twitter](https://twitter.com/sawolabs)
-
-[Facebook](https://www.facebook.com/SAWOlabs2020/)
-
-[LinkedIn](https://www.linkedin.com/company/sawolabs)
-
-[Instagram](https://www.instagram.com/sawolabs/)
+Thank you for putting your time to contribute and helping others out!\
+Before contributing do kindly read and follow [Code of Conduct](./CODE_OF_CONDUCT.md).
