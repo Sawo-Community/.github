@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://imgur.com/Km6qXqV" width=240px height=100px>
+<img src="https://github.com/Sawo-Community/.github/blob/main/assets/images/sawolabs-logo.png?raw=true" width=240px height=100px>
+
 <h1 align="center"> Sawo Labs Community </h1>
 <p>
 <p align="center">
