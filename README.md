@@ -2,6 +2,10 @@
 
 *Community health files for @Sawo-Community Organization*
 
+<p align="center">
+<img src="./assets/images/sawolabs-logo.png" width=240px height=100px/>
+</p>
+
 ## About:
 SAWO is the only user-authentication tool that your developers would crave for.
 Our APIs are fast, reliable, integrate onto any platform, and speak many languages. [Learn More...](https://sawolabs.com/)
