@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../assets/images/sawolabs-logo.png" width=240px height=100px>
+<img src="https://imgur.com/Km6qXqV" width=240px height=100px>
 <h1 align="center"> Sawo Labs Community </h1>
 <p>
 <p align="center">
@@ -8,7 +8,7 @@ Our APIs are fast, reliable, integrate onto any platform, and speak many languag
 </b> 
   <br>
   <br>
-  <b>Follow us and be a part of this amazing community. </b> <br><br>
+  <b>❤️ Follow us and be a part of this amazing community. ❤️</b> <br><br>
   <a href="https://discord.com/invite/TpnCfMUE5P">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
