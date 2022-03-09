@@ -3,12 +3,12 @@
 <h1 align="center"> Sawo Labs Community </h1>
 <p>
 <p align="center">
-  <b>This repo will contain community health files. You can take a look at current running programs and get involved with them :)</b> 
+  <b>This repository contains community health files. You can take a look at current running programs and get involved with them :)</b> 
   <br>
   <br>
   <b>Follow us and be a part of this amazing community.</b> <br><br>
   <a href="https://discord.com/invite/TpnCfMUE5P">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+    <img width="30px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
   </a>&ensp;
   <a href="https://www.facebook.com/SAWOlabs2020/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
